@@ -1,5 +1,3 @@
-# The Bubble That Implodes Upward
-
 *A memo on why the AI cycle is likely to end in consolidation, not collapse*
 
 ---
@@ -22,15 +20,15 @@ The dot-com bubble was a stock bubble. People bought overpriced shares. The pric
 
 Today is different. The companies at the center earn real money, and the numbers are clear.
 
-Nvidia sells the core hardware. It reported about $216 billion in revenue for its 2026 fiscal year, up 65 percent in a year. Its net income was near $40 billion in a single quarter, on gross margins around 75 percent.
-
+Nvidia sells the core hardware. It reported about 216 billion USD in revenue for its 2026 fiscal year, up 65 percent in a year. Its net income was near 40 billion USD in a single quarter, on gross margins around 75 percent.
+ 
 The pattern holds wider. The research firm DataTrek found that the five largest U.S. companies of 2025 have average net profit margins of about 34 percent. The five largest of 1999 had about 21 percent. Today's group also earns roughly 4.6 times the revenue and 9.1 times the net income of the 1999 group, after adjusting for inflation. These are real, profitable businesses, not ideas waiting for revenue.
 
-Valuations are also far less stretched than they were then. In 1999 and early 2000, Cisco supplied the basic equipment for the internet build-out — the role Nvidia plays for AI today. Its price-to-earnings ratio reached the hundreds; estimates range from about 200 to over 470. It was worth more than $500 billion on roughly $19 billion of revenue.
+Valuations are also far less stretched than they were then. In 1999 and early 2000, Cisco supplied the basic equipment for the internet build-out — the role Nvidia plays for AI today. Its price-to-earnings ratio reached the hundreds; estimates range from about 200 to over 470. It was worth more than USD 500 billion on roughly USD19 billion of revenue.
 
 Nvidia today trades at about 32 times its past-year earnings, and near 21 times expected earnings. Goldman Sachs notes that the seven largest companies trade at about half the earnings multiple of the seven largest of the late 1990s. Their price-to-growth ratio is about 1.7, against 3.7 at the dot-com peak.
 
-The companies that collapsed in 2000 often had no earnings at all. Amazon took in $1.6 billion in revenue in 1999 but lost money, and reportedly had about ten months of cash left — yet it was valued at $107 billion. Priceline reached a $9.8 billion valuation with no route to profit. Pets.com and eToys went bankrupt. The Nasdaq fell more than 75 percent between 2000 and 2002 and erased over $5 trillion in value.
+The companies that collapsed in 2000 often had no earnings at all. Amazon took in USD1.6 billion in revenue in 1999 but lost money, and reportedly had about ten months of cash left — yet it was valued at USD107 billion. Priceline reached a USD9.8 billion valuation with no route to profit. Pets.com and eToys went bankrupt. The Nasdaq fell more than 75 percent between 2000 and 2002 and erased over USD5 trillion in value.
 
 Today's leaders are the opposite case. They have large profits and very little debt. Nvidia's debt-to-equity ratio is near 0.07. Their share prices are high, but they rest on real earnings.
 
@@ -47,19 +45,19 @@ The closer comparison is the 2008 credit crisis. There, the danger sat in debt, 
 
 There are echoes of that here. The numbers come from mainstream financial institutions, not critics.
 
-JPMorgan estimates that building out global data centers and AI infrastructure will cost more than $5 trillion over five years. Even after the bond and securitization markets are tapped, it sees a funding gap of about $1.4 trillion that private credit and governments will have to fill.[^2]
+JPMorgan estimates that building out global data centers and AI infrastructure will cost more than USD5 trillion over five years. Even after the bond and securitization markets are tapped, it sees a funding gap of about USD1.4 trillion that private credit and governments will have to fill.[^2]
 
-Much of the borrowing is already kept off the tech companies' own balance sheets. A Financial Times analysis found that Oracle, Meta, xAI, and CoreWeave have moved more than $120 billion of data center debt into special purpose vehicles. These are funded by private lenders such as Blue Owl, Pimco, BlackRock, and Apollo. The largest single example is Meta's $30 billion Hyperion deal in Louisiana, set up so that Meta rents the site rather than carrying the debt.[^3]
+Much of the borrowing is already kept off the tech companies' own balance sheets. A Financial Times analysis found that Oracle, Meta, xAI, and CoreWeave have moved more than USD 120 billion of data center debt into special purpose vehicles. These are funded by private lenders such as Blue Owl, Pimco, BlackRock, and Apollo. The largest single example is Meta's USD 30 billion Hyperion deal in Louisiana, set up so that Meta rents the site rather than carrying the debt.[^3]
 
 The risk is that this hides the true load. A UBS strategist quoted in that reporting warned that these structures mean the credit quality of the large tech companies could be worse than current models suggest. JPMorgan's own chief executive, Jamie Dimon, has said AI itself is not a bubble, but that the private credit market lacks the transparency of public markets.[^2]
 
-Some of the demand is also circular. Nvidia agreed to invest up to $100 billion in OpenAI. OpenAI committed to huge cloud contracts with Oracle. Oracle buys its chips from Nvidia. So money can leave Nvidia as an investment and come back as revenue.[^4]
+Some of the demand is also circular. Nvidia agreed to invest up to USD 100 billion in OpenAI. OpenAI committed to huge cloud contracts with Oracle. Oracle buys its chips from Nvidia. So money can leave Nvidia as an investment and come back as revenue.[^4]
 
 Fortune put the worry plainly. It asked how much of the AI boom is simply Nvidia's cash being recycled. It noted that in past bubbles, this kind of vendor financing and revenue "roundtripping" made the collapse worse.[^4]
 
 Companies rarely disclose how much of their reported revenue comes from such related parties. That is part of why the SEC's Investor Advisory Committee recommended in December 2025 that the agency require clearer disclosure of AI-related "strategic dependencies."[^5]
 
-The loans are often secured by the chips themselves. In one $20 billion financing for Elon Musk's xAI, a special purpose vehicle used up to $12.5 billion of debt to buy Nvidia chips and lease them back. The collateral is hardware whose value depends on the technology cycle staying favorable.[^3]
+The loans are often secured by the chips themselves. In one USD 20 billion financing for Elon Musk's xAI, a special purpose vehicle used up to USD 12.5 billion of debt to buy Nvidia chips and lease them back. The collateral is hardware whose value depends on the technology cycle staying favorable.[^3]
 
 But there is a clear difference from 2008. The largest companies have steady cash flow from established businesses. Even if their AI bets disappoint, they can pay their debts from existing operations. A system-wide collapse would need their AI revenue to fail and their core businesses to weaken at the same time. That is possible, but it is two failures, not one.
 
@@ -176,11 +174,11 @@ The bubble does not need to explode to do damage. It only needs to deflate slowl
 
 [^1]: Howard Marks, "Is It a Bubble?", Oaktree Capital, December 9, 2025: https://www.oaktreecapital.com/insights/memo/is-it-a-bubble. See also his follow-up, "AI Hurtles Ahead", February 26, 2026: https://www.oaktreecapital.com/insights/memo/ai-hurtles-ahead
 
-[^2]: JPMorgan Chase analysis on AI infrastructure financing, reported by Bloomberg, "AI's $5 Trillion Data-Center Boom Will Dip Into Every Debt Market, JPMorgan Says", November 10, 2025: https://www.bloomberg.com/news/articles/2025-11-10/ai-s-5-trillion-data-center-boom-will-dip-into-every-debt-market-jpmorgan-says. Jamie Dimon's comments on private credit transparency were widely reported in early 2026.
+[^2]: JPMorgan Chase analysis on AI infrastructure financing, reported by Bloomberg, "AI's USD5 Trillion Data-Center Boom Will Dip Into Every Debt Market, JPMorgan Says", November 10, 2025: https://www.bloomberg.com/news/articles/2025-11-10/ai-s-5-trillion-data-center-boom-will-dip-into-every-debt-market-jpmorgan-says. Jamie Dimon's comments on private credit transparency were widely reported in early 2026.
 
-[^3]: Financial Times analysis on off-balance-sheet data center financing (December 2025), which reported the $120 billion in SPV debt across Oracle, Meta, xAI, and CoreWeave; Meta–Blue Owl Hyperion deal detail at https://www.globaldatacenterhub.com/p/meta-blue-owls-27b-bet-is-this-the (October 2025); legal review of the structures and the xAI GPU-backed SPV at https://www.quinnemanuel.com/the-firm/publications/client-alert-emerging-litigation-risks-in-financing-ai-data-centers-boom/ (March 2026).
+[^3]: Financial Times analysis on off-balance-sheet data center financing (December 2025), which reported the USD120 billion in SPV debt across Oracle, Meta, xAI, and CoreWeave; Meta–Blue Owl Hyperion deal detail at https://www.globaldatacenterhub.com/p/meta-blue-owls-27b-bet-is-this-the (October 2025); legal review of the structures and the xAI GPU-backed SPV at https://www.quinnemanuel.com/the-firm/publications/client-alert-emerging-litigation-risks-in-financing-ai-data-centers-boom/ (March 2026).
 
-[^4]: Jeremy Kahn, "Nvidia's $100 billion OpenAI investment raises eyebrows and a key question", Fortune, September 28, 2025: https://fortune.com/2025/09/28/nvidia-openai-circular-financing-ai-bubble. See also the round-tripping analysis at Advisor Perspectives, November 10, 2025: https://www.advisorperspectives.com/articles/2025/11/10/nvidia-deals-vendor-financing-round-tripping
+[^4]: Jeremy Kahn, "Nvidia's USD100 billion OpenAI investment raises eyebrows and a key question", Fortune, September 28, 2025: https://fortune.com/2025/09/28/nvidia-openai-circular-financing-ai-bubble. See also the round-tripping analysis at Advisor Perspectives, November 10, 2025: https://www.advisorperspectives.com/articles/2025/11/10/nvidia-deals-vendor-financing-round-tripping
 
 [^5]: SEC Investor Advisory Committee recommendation on AI disclosure (December 2025), summarized at https://www.dandodiary.com/2025/12/articles/securities-laws/sec-investor-advisory-committee-recommends-ai-related-disclosure-guidelines/
 
